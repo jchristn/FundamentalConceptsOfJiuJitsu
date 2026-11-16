@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Microsoft Office lock and temp files
+~$*
+*.tmp
+*.wbk
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Agent scratch and tooling output
+.humanize-rev8/
+.claude/
+
+# Camera raw files
+*.CR3
+*.cr3
