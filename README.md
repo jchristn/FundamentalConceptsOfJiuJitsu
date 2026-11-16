@@ -6,8 +6,6 @@ This repository contains the source material for the book of the above title, av
 
 This work is available as open source to allow the world to read, review, and contribute corrections to any factual inaccuracies or suggestions for items to cover in subsequent editions.  The goal of this book is to capture a mental model for the core positions in jiu jitsu and core concepts that underlay each and are nearly universally applicable.
 
-GitHub repository: `https://github.com/jchristn/FundamentalConceptsOfJiuJitsu`
-
 ## Repository Layout
 
 - `markdown/`: reader-facing manuscript, one Markdown file per chapter. Kept in sync with the latest Word revision.
