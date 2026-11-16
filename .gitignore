@@ -20,6 +20,5 @@ desktop.ini
 .humanize-rev8/
 .claude/
 
-# Camera raw files
-*.CR3
-*.cr3
+# Photographs (not distributed with the book source)
+images/
