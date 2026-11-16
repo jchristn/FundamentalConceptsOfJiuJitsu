@@ -4,6 +4,10 @@ A Mental Model for Every Stage of the Journey
 
 <a href="https://www.amazon.com/Fundamental-Concepts-Jiu-Jitsu-Journey/dp/B0HNJGJ2Z5/"><img src="covers/Front%20Fundamental%20Concepts%20of%20Jiu%20Jitsu-frontcover.jpg" alt="Front cover of Fundamental Concepts of Jiu Jitsu" width="300"/></a>
 
+Author: [Joel Christner](https://github.com/jchristn)
+
+Editor: [Josh Harsono](https://github.com/jharsono)
+
 This repository contains the source material for the book of the above title, available on [Amazon](https://www.amazon.com/Fundamental-Concepts-Jiu-Jitsu-Journey/dp/B0HNJGJ2Z5/).
 
 This work is available as open source to allow the world to read, review, and contribute corrections to any factual inaccuracies or suggestions for items to cover in subsequent editions.  The goal of this book is to capture a mental model for the core positions in jiu jitsu and core concepts that underlay each and are nearly universally applicable.
