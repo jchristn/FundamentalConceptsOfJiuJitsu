@@ -12,3 +12,11 @@ This work is available as open source to allow the world to read, review, and co
 - `word/`: Word manuscript revisions (`.docx`). The newest dated revision is the source of truth for the published copy.
 - `images/`: photographs for the book.
 - `covers/`: cover artwork.
+
+## Contributing
+
+Feel free to file issues for inaccuracies found in the book, or even pull requests with fixes.  It is not my intent to expand this edition of this work with new content, however, there may be future editions where new content can be integrated.  Source material will be updated on [Amazon KDP](https://kdp.amazon.com) as bugfixes are integrated and inaccuracies are addressed.
+
+## License
+
+This work is licensed under the MIT license.
