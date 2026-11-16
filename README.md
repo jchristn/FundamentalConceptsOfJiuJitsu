@@ -2,7 +2,9 @@
 
 A Mental Model for Every Stage of the Journey
 
-This repository contains the source material for the book of the above title, available on Amazon at [https://www.amazon.com/Fundamental-Concepts-Jiu-Jitsu-Journey/dp/B0HNJGJ2Z5/](https://www.amazon.com/Fundamental-Concepts-Jiu-Jitsu-Journey/dp/B0HNJGJ2Z5/).  This work is available as open source to allow the world to read, review, and contribute corrections to any factual inaccuracies or suggestions for items to cover in subsequent editions.  The goal of this book is to capture a mental model for the core positions in jiu jitsu and core concepts that underlay each and are nearly universally applicable.
+This repository contains the source material for the book of the above title, available on [Amazon](https://www.amazon.com/Fundamental-Concepts-Jiu-Jitsu-Journey/dp/B0HNJGJ2Z5/).
+
+This work is available as open source to allow the world to read, review, and contribute corrections to any factual inaccuracies or suggestions for items to cover in subsequent editions.  The goal of this book is to capture a mental model for the core positions in jiu jitsu and core concepts that underlay each and are nearly universally applicable.
 
 GitHub repository: `https://github.com/jchristn/FundamentalConceptsOfJiuJitsu`
 
